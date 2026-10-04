@@ -1,5 +1,6 @@
 package com.example.basicstatecodelab
 
+import com.example.basicstatecodelab.WellnessTasksList
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
